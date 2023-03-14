@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MaroozaDev
-- 👀 I’m interested in WebDevelopment, iOS Development and IT-Forensics
-- 🌱 I’m currently learning to get constantly better
+- 👋 Hi, I’m @Marooza
+- 👀 I’m a IT-Forensic, and self-taught Python Developer.
+- 🌱 I'm interested in music and ethical hacking.
 
 - 📫 How to reach me ...
 
